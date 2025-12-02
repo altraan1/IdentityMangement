@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "og/9gO4DQ/Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anhmi\\OneDrive - Wilfrid Laurier University\\Documents\\Sheridan\\Year 2\\Term 4\\PROG 30000\\Assignment4\\IdentityMangement\\IdentityManagement.Core\\IdentityManagement.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\10.0.0\\microsoft.aspnetcore.cryptography.internal.10.0.0.nupkg.sha512",
+    "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\10.0.0\\microsoft.aspnetcore.cryptography.keyderivation.10.0.0.nupkg.sha512",
+    "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.0\\microsoft.extensions.caching.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0\\microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
+    "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.extensions.identity.core\\10.0.0\\microsoft.extensions.identity.core.10.0.0.nupkg.sha512",
+    "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.extensions.identity.stores\\10.0.0\\microsoft.extensions.identity.stores.10.0.0.nupkg.sha512",
+    "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.extensions.logging\\10.0.0\\microsoft.extensions.logging.10.0.0.nupkg.sha512",
+    "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.extensions.options\\10.0.0\\microsoft.extensions.options.10.0.0.nupkg.sha512",
+    "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
