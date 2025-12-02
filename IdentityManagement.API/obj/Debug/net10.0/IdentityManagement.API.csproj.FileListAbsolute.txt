@@ -208,3 +208,4 @@ C:\Users\anhmi\OneDrive - Wilfrid Laurier University\Documents\Sheridan\Year 2\T
 C:\Users\anhmi\OneDrive - Wilfrid Laurier University\Documents\Sheridan\Year 2\Term 4\PROG 30000\Assignment4\IdentityMangement\IdentityManagement.API\obj\Debug\net10.0\IdentityManagement.API.pdb
 C:\Users\anhmi\OneDrive - Wilfrid Laurier University\Documents\Sheridan\Year 2\Term 4\PROG 30000\Assignment4\IdentityMangement\IdentityManagement.API\obj\Debug\net10.0\IdentityManagement.API.genruntimeconfig.cache
 C:\Users\anhmi\OneDrive - Wilfrid Laurier University\Documents\Sheridan\Year 2\Term 4\PROG 30000\Assignment4\IdentityMangement\IdentityManagement.API\obj\Debug\net10.0\ref\IdentityManagement.API.dll
+C:\Users\anhmi\OneDrive - Wilfrid Laurier University\Documents\Sheridan\Year 2\Term 4\PROG 30000\Assignment4\IdentityMangement\IdentityManagement.API\obj\Debug\net10.0\IdentityManagement.API.sourcelink.json
