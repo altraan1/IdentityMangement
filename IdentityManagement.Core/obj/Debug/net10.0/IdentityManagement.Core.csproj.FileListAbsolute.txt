@@ -6,8 +6,8 @@ C:\Users\anhmi\OneDrive - Wilfrid Laurier University\Documents\Sheridan\Year 2\T
 C:\Users\anhmi\OneDrive - Wilfrid Laurier University\Documents\Sheridan\Year 2\Term 4\PROG 30000\Assignment4\IdentityMangement\IdentityManagement.Core\obj\Debug\net10.0\IdentityManagement.Core.AssemblyInfoInputs.cache
 C:\Users\anhmi\OneDrive - Wilfrid Laurier University\Documents\Sheridan\Year 2\Term 4\PROG 30000\Assignment4\IdentityMangement\IdentityManagement.Core\obj\Debug\net10.0\IdentityManagement.Core.AssemblyInfo.cs
 C:\Users\anhmi\OneDrive - Wilfrid Laurier University\Documents\Sheridan\Year 2\Term 4\PROG 30000\Assignment4\IdentityMangement\IdentityManagement.Core\obj\Debug\net10.0\IdentityManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\anhmi\OneDrive - Wilfrid Laurier University\Documents\Sheridan\Year 2\Term 4\PROG 30000\Assignment4\IdentityMangement\IdentityManagement.Core\obj\Debug\net10.0\IdentityManagement.Core.sourcelink.json
 C:\Users\anhmi\OneDrive - Wilfrid Laurier University\Documents\Sheridan\Year 2\Term 4\PROG 30000\Assignment4\IdentityMangement\IdentityManagement.Core\obj\Debug\net10.0\IdentityManagement.Core.dll
 C:\Users\anhmi\OneDrive - Wilfrid Laurier University\Documents\Sheridan\Year 2\Term 4\PROG 30000\Assignment4\IdentityMangement\IdentityManagement.Core\obj\Debug\net10.0\refint\IdentityManagement.Core.dll
 C:\Users\anhmi\OneDrive - Wilfrid Laurier University\Documents\Sheridan\Year 2\Term 4\PROG 30000\Assignment4\IdentityMangement\IdentityManagement.Core\obj\Debug\net10.0\IdentityManagement.Core.pdb
 C:\Users\anhmi\OneDrive - Wilfrid Laurier University\Documents\Sheridan\Year 2\Term 4\PROG 30000\Assignment4\IdentityMangement\IdentityManagement.Core\obj\Debug\net10.0\ref\IdentityManagement.Core.dll
-C:\Users\anhmi\OneDrive - Wilfrid Laurier University\Documents\Sheridan\Year 2\Term 4\PROG 30000\Assignment4\IdentityMangement\IdentityManagement.Core\obj\Debug\net10.0\IdentityManagement.Core.sourcelink.json

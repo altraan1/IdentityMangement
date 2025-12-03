@@ -276,7 +276,7 @@ public class AuthController : ControllerBase
             {
                 Success = false,
                 Message = $"Account deletion failed: {errors}"
-            ));
+            });
         }
         _logger.LogInformation("User {Email} deleted their account", user.Email);
 
